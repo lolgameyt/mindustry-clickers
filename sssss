@@ -1,0 +1,4 @@
+int = 10;
+void setup() {
+print(10, OUTPUT);
+}
